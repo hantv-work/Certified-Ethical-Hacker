@@ -18,11 +18,6 @@ SQL INJECTION
 - CLOUD COMPUTING
 X CRYPTOGRAPHY
 *******************************************
- Hydra để bẻ khóa ftp, may là wordlist default xài ngon
-DVWA là thêm 3 điểm
-command injection, upload shell qua DVWA
-cần nắm vững 3 chương 13,14,15 của CEH v11 LAB
-9d2f75377ac0ab991d40c91fd27e52fd  
 
 # hashcat -m 0 -a 0 ctf5-hash.txt /usr/share/wordlists/rockyou.txt
 http.request.method == "POST"

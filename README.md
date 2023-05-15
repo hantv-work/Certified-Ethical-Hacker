@@ -1,2 +1,42 @@
-# CEHv11
-Nothing here.
+<h2>CEH PRACTICAL NOTES (v11)</h2> 
+<b>Table of Contents</b><br>
+<b>FOOT PRINTING</b><br>
+<b>SCANNING NETWORKS</b><br>
+<b>ENUMERATION</b><br>
+<b>VULNERABILITY ANALYSIS</b><br>
+<b>SYSTEM HACKING</b><br>
+<b>MALWARE THREATS</b><br>
+<b>SNIFFING</b><br>
+<b>SOCIAL ENGINEERING</b><br>
+<b>DENIAL-OF-SERVICE (DOS)</b><br>
+<b>SESSION HIJACKING</b><br>
+<b>EVADING IDS FIREWALLS AND HONEYPOTS</b><br>
+<b>HACKING WEB SERVERS</b><br>
+<b>HACKING WEB APPLICATIONS</b><br>
+<b>SQL INJECTION35</b><br>
+<b>HACKING WIRELESS NETWORKS</b><br>
+<b>HACKING MOBILE PLATFORMS</b><br>
+<b>CLOUD COMPUTING</b><br>
+<b>CRYPTOGRAPHY</b><br>
+<b>EXTRAS</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
