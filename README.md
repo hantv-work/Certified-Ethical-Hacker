@@ -21,8 +21,6 @@
 19. [Module 19 - Cloud Computing] <br>
 20. [Module 20 - Cryptography] <br>
  <br>
-<img src="./CEH-Practical-Exam-Status-ASPEN.png">
-
 
 
 
